@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Welcome! I’m 0xKNAVIK
+This GitHub is dedicated to my journey in cybersecurity — a field I'm deeply passionate about.
 
-<!--
-**0xKNAVIK/0xKNAVIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I chose the name 0xKNAVIK because it feels more personal and unique than my real name.
+But if you manage to uncover it... well, congratulations — it's Nicolas Kaenan Silveira. 😉
 
-Here are some ideas to get you started:
+Here you’ll find tools, scripts, experiments, and personal research as I grow in this career.
+Feel free to explore, learn, or even reach out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills & Interests
+- Developer
+> I'm also studying software development, with experience in Java, Angular, and Spring Boot.
+
+- Always learning about hacking
+> Although I’m a beginner hacker, I’m constantly learning. I buy books, take courses, and try to solve CTFs whenever I can.
+
+- Curious by nature
+> Whenever I encounter problems, I strive to understand them deeply — well enough to solve them more than once and learn from them.
+
